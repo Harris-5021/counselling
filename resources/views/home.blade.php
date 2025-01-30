@@ -4,14 +4,14 @@
 <!-- Banner -->
 <section id="banner" style="background-image: url('{{ asset('assets/css/images/TherapyChair.jpg') }}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
     <div class="inner">
-        <h2>Embrace Resilience Therapy</h2>
+        <h2 style="color:#ffffff">Embrace Resilience Therapy</h2>
         <div class="text-container">
             <p>WELCOME TO<br />
 				Embrace Resilience Therapy<br />
             YOUR JOURNEY STARTS HERE</p>
         </div>
     </div>
-    <a href="#one" class="more scrolly">Learn More</a>
+    <a href="#one" class="more scrolly" style="color: #ffffff;">Learn More</a>
 </section>
 
 <!-- One -->
@@ -44,21 +44,21 @@
     <section class="spotlight">
         <div class="image"><img src="{{ asset('assets/css/images/DALL·E-2025-01-29-04.24.47-A-clipart-style-illustration-depicting-a-one-on-one-therapy-session.jpg') }}" alt="Your Space to Talk" /></div>
         <div class="content">
-            <h2>Your Space to Talk</h2>
+            <h2 style="color: white;">Your Space to Talk</h2>
             <p>In our sessions, you'll find a welcoming environment where you can express yourself openly without fear of judgment. Whether meeting in person or online, this is your time and space to explore your thoughts and feelings at your own pace.</p>
         </div>
     </section>
     <section class="spotlight">
         <div class="image"><img src="{{ asset('assets/css/images/depositphotos_336415028-stock-photo-person-standing-on-road-with.jpg') }}" alt="Finding Your Path" /></div>
         <div class="content">
-            <h2>Finding Your Path</h2>
+            <h2 style="color: white;">Finding your path</h2>
             <p>Life brings many challenges - from relationship difficulties and work stress to anxiety and loss. Together, we'll explore what's troubling you, helping you understand your emotions better and discover ways to navigate through these challenging times.</p>
         </div>
     </section>
     <section class="spotlight">
         <div class="image"><img src="{{ asset('assets/css/images\DALL·E-2025-01-29-04.28.jpg') }}" alt="Growth and Understanding" /></div>
         <div class="content">
-            <h2>Growth and Understanding</h2>
+            <h2 style="color: white;">Growth and Understanding</h2>
             <p>Through our collaborative work, you'll develop deeper self-awareness and practical tools for everyday life. My role is to support you in building resilience, understanding yourself better, and making choices that align with your wellbeing.</p>
         </div>
     </section>
@@ -177,8 +177,8 @@
 <section id="contact" class="wrapper style4">
     <div class="inner">
         <header>
-            <h2 style="color: #333333;">Get in touch</h2>
-            <p>
+            <h2 style="color: #ffffff;">Get in touch</h2>
+            <p style="color: #ffffff;">
                 Feel free to contact me to arrange a free 20-minute initial conversation by telephone, where you can ask any questions you may have and we can discuss whether I am the right therapist for you at this time.
             </p>
         </header>
@@ -194,25 +194,25 @@
             <div class="row gtr-uniform">
                 <!-- Name -->
                 <div class="col-6 col-12-xsmall">
-                    <label for="name" style="color: #333333;">Name</label>
+                    <label for="name" style="color: #ffffff;">Name</label>
                     <input type="text" name="name" id="name" placeholder="Enter your name" required />
                 </div>
 
                 <!-- Phone -->
                 <div class="col-6 col-12-xsmall">
-                    <label for="phone" style="color: #333333;">Phone</label>
+                    <label for="phone" style="color: #ffffff;">Phone</label>
                     <input type="text" name="phone" id="phone" placeholder="Enter your phone number" />
                 </div>
 
                 <!-- Email -->
                 <div class="col-12">
-                    <label for="email" style="color: #333333;">Email Address</label>
+                    <label for="email" style="color: #ffffff;">Email Address</label>
                     <input type="email" name="email" id="email" placeholder="Enter your email address" required />
                 </div>
 
                 <!-- Message -->
                 <div class="col-12">
-                    <label for="message" style="color: #333333;">Message</label>
+                    <label for="message" style="color: #ffffff;">Message</label>
                     <textarea name="message" id="message" placeholder="Write your message here" rows="6" required></textarea>
                 </div>
 
