@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}" />
         <noscript><link rel="stylesheet" href="{{ asset('assets/css/noscript.css') }}" /></noscript>
         <style>
+            
             @media screen and (max-width: 736px) {
                 /* Add these styles inside your existing media query */
 
@@ -206,6 +207,7 @@
                     border-radius: 8px !important;
                 }
             }
+            
             </style>
     </head>
     <body class="landing is-preload">
