@@ -196,6 +196,15 @@
                     overflow: hidden !important;
                     text-overflow: ellipsis !important;
                 }
+                #contact {
+                    background-color: #2e3842 !important;
+                }
+            
+                #contact .inner {
+                    background-color: #2e3842 !important;
+                    padding: 2em !important;
+                    border-radius: 8px !important;
+                }
             }
             </style>
     </head>
