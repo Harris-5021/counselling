@@ -4581,3 +4581,49 @@ textarea {
     resize: none;
 }
 
+
+
+    .faq-container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .faq-item {
+        border-bottom: 1px solid #ddd;
+        padding: 10px 0;
+    }
+
+    .faq-question {
+        background: none;
+        border: none;
+        width: 100%;
+        text-align: left;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
+        padding: 10px;
+        transition: 0.3s;
+        color: #333;
+    }
+
+    .faq-question:hover {
+        color: #007BFF;
+    }
+
+    .faq-question.active {
+        color: #007BFF;
+    }
+
+    .faq-answer {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
+        padding: 0 10px;
+        color: #555;
+    }
+
+	#faq {
+		background-color: #f5e6d3; /* Change this to any color you prefer */
+		padding: 50px 0;
+	}
+	

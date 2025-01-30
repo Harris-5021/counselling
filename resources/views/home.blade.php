@@ -7,7 +7,7 @@
         <h2 style="color:#ffffff">Embrace Resilience Therapy</h2>
         <div class="text-container">
             <p>WELCOME TO<br />
-				Embrace Resilience Therapy<br />
+				Embrace Resilience Psychotherapy and Counselling<br />
             YOUR JOURNEY STARTS HERE</p>
         </div>
     </div>
@@ -24,11 +24,11 @@
             </div>
             <header class="major">
                 <h2>Welcome, and thank you for visiting</h2>
-                <p>I'm Shabina Ishaq, an accredited Psychotherapist and Clinical Supervisor based in Sheffield.</p>
+                <p>I'm Shabina Ishaq, an accredited Psychotherapist and Clinical Supervisor based in South Yorkshire.</p>
             </header>
         </div>
         <div class="content">
-            <p>I provide individual therapy for adults and young people, couples counselling, and EMDR therapy. Working from my comfortable practice room in Sheffield and offering online sessions, I support clients through a wide range of challenges including anxiety, depression, trauma, and relationship issues.</p>
+            <p>My approach is Intgrative which is tailor made to suit individual clients needs. I offer 1 to 1 therapy for adults and young people, couples counselling, and EMDR therapy. From my private practice in South Yorkshire, as well as online and telephone, I support clients through a range of challenges, including anxiety, depression, trauma, and relationship difficulties</p>
             
             <p>With over 13 years of experience and a Master's degree in Counselling and Trauma from the University of Nottingham, I've held roles as Clinical Lead for abuse and trauma services and currently work as a Specialist Mental Health and Learning Support Mentor at Universities. My extensive experience across hospice care, community services, and the voluntary sector has shaped my approach to providing compassionate, professional therapy tailored to each individual's needs.</p>
         </div>
@@ -102,7 +102,8 @@
             <li>✅ Depression</li>
             <li>✅ Trauma and PTSD</li>
             <li>✅ Relationship issues</li>
-            <li>✅ Bereavement and loss</li>
+            <li>✅ Bereavement<br>
+               and loss</li>
             <li>✅ Work-related stress</li>
             <li>✅ Self-esteem and confidence</li>
             <li>✅ Life transitions</li>
@@ -114,66 +115,176 @@
 		</div>
 	  </div>
   
-	  <div class="info-grid">
-		<div class="info-card">
-		  <h3>PROFESSIONAL MEMBERSHIPS</h3>
-		  <p>
-			I am a registered member of British Association for Counselling and
-			Psychotherapy (BACP). I work within their ethical framework, which
-			ensures I maintain high professional standards and engage in regular
-			supervision and continuing professional development. I also hold
-			professional indemnity insurance and an enhanced DBS certificate.
-		  </p>
-		</div>
-		<div class="info-card">
-		  <h3>MY LOCATION</h3>
-		  <p>
-			I work with both individuals aged 16+ and couples face-to-face
-			or online via Zoom.
-		  </p>
-		  <p>
-			<strong>Address:</strong><br />
-			118 Wickersley Road<br />
-			Rotherham S60 3PR
-		  </p>
-		</div>
-		<div class="info-card">
-		  <h3>SESSIONS</h3>
-		  <p>
-			<strong>Please note:</strong> Current availability is online and
-			telephone:
-		  </p>
-		  <p>Monday to Friday 12pm - 7pm</p>
-		  <p>
-			(Please check with me for times outside of these hours, as this depends on my
-			availability).
-		  </p>
-		  <p>
-			I offer both brief and longer-term work and each session normally
-			lasts 1 hour. If you need to cancel an appointment, please note
-			that 48 hours' notice is required; otherwise, you will still have to
-			pay for any missed sessions.
-		  </p>
-		</div>
-	  </div>
+	  <div class="info-grid" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+      <div class="info-card" style="flex: 1; min-width: 300px;">
+          <h3>PROFESSIONAL MEMBERSHIPS</h3>
+          <p>
+              I am registered and accredited with the British Association for Counselling and Psychotherapy (BACP). I work within their ethical framework, which ensures I maintain high professional standards and engage in regular supervision and continuing professional development. I also hold professional indemnity insurance and an enhanced DBS certificate.
+          </p>
+      </div>
+      <div class="info-card" style="flex: 1; min-width: 300px;">
+          <h3>MY LOCATION</h3>
+          <p>
+              I work with both individuals aged 16+ and couples face-to-face or online via Zoom.
+          </p>
+          <p>
+              <strong>Address:</strong><br />
+              118 Wickersley Road<br />
+              Rotherham S60 3PR
+          </p>
+      </div>
+      <div class="info-card" style="flex: 1; min-width: 300px;">
+          <h3>AVAILABILITY</h3>
+          <p>Monday to Friday 9AM - 9PM</p>
+          <p>(Please check with me for weekend availability)</p>
+          <p>Duration of a session depends on the type of therapy:<br>(please see below)</p>
   
-	  <div class="fees">
-		<h3>FEES</h3>
-		<div class="fees-table">
-		  <div class="fee-row">
-			<span>Initial phone consultation (15 mins)</span>
-			<span>Free</span>
-		  </div>
-		  <div class="fee-row">
-			<span>Session fee (1 hour)</span>
-			<span>£60 per session</span>
-		  </div>
-		</div>
+          <h3>FEES</h3>
+          <ul>
+              <li><strong>Counselling (Individual):</strong><br>£50–£60 (50–60 minutes)</li>
+              <li><strong>EMDR Therapy:</strong><br>£80 (90 minutes)</li>
+              <li><strong>Couples Counselling:</strong><br>£80 (90 minutes)</li>
+              <li><strong>Clinical Supervision:</strong><br>£60 (60 minutes)<br>£75–£90 (90 minutes)</li>
+              <li><strong>Student Supervision (until qualified):</strong><br>£60 (90 minutes)</li>
+          </ul>
+      </div>
+  </div>
+  
+  
+	  
 	  </div>
 	</div>
   </section>
-  
+  <!-- FAQ -->
+<section id="faq" class="wrapper style2">
+  <div class="inner" style="max-width: 800px; margin: 0 auto; text-align: center;">
+      <header class="major">
+          <h2 class="section-title">FREQUENTLY ASKED QUESTIONS</h2>
+      </header>
+      <div class="faq-container" style="max-width: 600px; margin: 20px auto;">
+          <div class="faq-item">
+              <div class="faq-question" style="
+                  width: 100%;
+                  text-align: center;
+                  padding: 15px 30px;
+                  border: 1px solid #ffffff;
+                  background: transparent;
+                  color: #2d2d2d;
+                  margin-bottom: 10px;
+                  font-size: 14px;
+                  letter-spacing: 2px;
+                  font-weight: 500;
+                  line-height: 1.4;
+                  cursor: pointer;
+              ">
+                  WHAT CAN I EXPECT IN MY FIRST THERAPY SESSION?
+              </div>
+              <div class="faq-answer" style="display: none; text-align: left; padding: 0 20px; margin-bottom: 20px;">
+                  In your first session, we'll discuss what brings you to therapy, your goals, and any concerns you may have. It's a safe space to explore what works best for you.
+              </div>
+          </div>
 
+          <div class="faq-item">
+              <div class="faq-question" style="
+                  width: 100%;
+                  text-align: center;
+                  padding: 15px 30px;
+                  border: 1px solid #ffffff;
+                  background: transparent;
+                  color: #2d2d2d;
+                  margin-bottom: 10px;
+                  font-size: 14px;
+                  letter-spacing: 2px;
+                  font-weight: 500;
+                  line-height: 1.4;
+                  cursor: pointer;
+              ">
+                  HOW MANY SESSIONS WILL I NEED?
+              </div>
+              <div class="faq-answer" style="display: none; text-align: left; padding: 0 20px; margin-bottom: 20px;">
+                  The number of sessions varies based on individual needs. Some clients benefit from short-term work, while others prefer ongoing support.
+              </div>
+          </div>
+
+          <div class="faq-item">
+              <div class="faq-question" style="
+                  width: 100%;
+                  text-align: center;
+                  padding: 15px 30px;
+                  border: 1px solid #ffffff;
+                  background: transparent;
+                  color: #2d2d2d;
+                  margin-bottom: 10px;
+                  font-size: 14px;
+                  letter-spacing: 2px;
+                  font-weight: 500;
+                  line-height: 1.4;
+                  cursor: pointer;
+              ">
+                  DO YOU OFFER ONLINE SESSIONS?
+              </div>
+              <div class="faq-answer" style="display: none; text-align: left; padding: 0 20px; margin-bottom: 20px;">
+                  Yes! I offer online therapy via Zoom, providing flexibility and accessibility for clients who prefer remote sessions.
+              </div>
+          </div>
+
+          <div class="faq-item">
+              <div class="faq-question" style="
+                  width: 100%;
+                  text-align: center;
+                  padding: 15px 30px;
+                  border: 1px solid #ffffff;
+                  background: transparent;
+                  color: #2d2d2d;
+                  margin-bottom: 10px;
+                  font-size: 14px;
+                  letter-spacing: 2px;
+                  font-weight: 500;
+                  line-height: 1.4;
+                  cursor: pointer;
+              ">
+                  IS THERAPY CONFIDENTIAL?
+              </div>
+              <div class="faq-answer" style="display: none; text-align: left; padding: 0 20px; margin-bottom: 20px;">
+                  Yes. Everything discussed in our sessions is kept confidential, except in cases where there is a legal or ethical duty to disclose (e.g., risk of harm).
+              </div>
+          </div>
+
+          <div class="faq-item">
+              <div class="faq-question" style="
+                  width: 100%;
+                  text-align: center;
+                  padding: 15px 30px;
+                  border: 1px solid #ffffff;
+                  background: transparent;
+                  color: #2d2d2d;
+                  margin-bottom: 10px;
+                  font-size: 14px;
+                  letter-spacing: 2px;
+                  font-weight: 500;
+                  line-height: 1.4;
+                  cursor: pointer;
+              ">
+                  WHAT IS EMDR THERAPY?
+              </div>
+              <div class="faq-answer" style="display: none; text-align: left; padding: 0 20px; margin-bottom: 20px;">
+                  EMDR (Eye Movement Desensitisation and Reprocessing) is a structured therapy that helps people process and heal from traumatic memories.<br>
+                  EMDR is recommended by NICE as one of the evidence-based psychological therapies to treat adults with post-traumatic stress disorder (PTSD), complex PTSD and significant symptoms of PTSD.<br>
+                  NICE guidelines are evidence-based recommendations for health and care in England and Wales. They help health and social care professionals to prevent ill health, promote good health and improve the quality of care and services.
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <script>
+      document.querySelectorAll('.faq-question').forEach(question => {
+          question.addEventListener('click', () => {
+              const answer = question.nextElementSibling;
+              answer.style.display = answer.style.display === 'none' ? 'block' : 'none';
+          });
+      });
+  </script>
+</section>
 <!-- Contact Section -->
 <section id="contact" class="wrapper style4">
     <div class="inner">
@@ -270,5 +381,26 @@
                 }
             });
         </script>
+        <!-- JavaScript for FAQ Toggle -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+      const questions = document.querySelectorAll(".faq-question");
+
+      questions.forEach(question => {
+          question.addEventListener("click", function () {
+              // Toggle active class for clicked question
+              this.classList.toggle("active");
+
+              // Toggle answer visibility
+              const answer = this.nextElementSibling;
+              if (answer.style.maxHeight) {
+                  answer.style.maxHeight = null;
+              } else {
+                  answer.style.maxHeight = answer.scrollHeight + "px";
+              }
+          });
+      });
+  });
+</script>
     </div>
 </section>

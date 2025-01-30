@@ -11,9 +11,8 @@
                 <div class="mt-6">
                     <h2 class="text-lg font-medium text-gray-900">Location</h2>
                     <div class="mt-3">
-                        <p>The Practice Rooms</p>
-                        <p>5 Broomfield Road</p>
-                        <p>Sheffield S10 2SE</p>
+                        <p>118 Wickersley Road</p>
+                        <p>Rotherham S60 3PR</p>
                     </div>
                 </div>
                 <div class="mt-8">

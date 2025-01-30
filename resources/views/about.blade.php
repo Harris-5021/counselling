@@ -11,7 +11,7 @@
                     About Me
                 </h1>
                 <div class="mt-6 text-gray-500 space-y-6">
-                    <p>I provide counselling and psychotherapy to individuals in Sheffield and online.</p>
+                    <p>I provide counselling and psychotherapy to individuals in South Yorkshire and online.</p>
                     <p>I have spent over 15 years working in the education sector and have had the privilege of working in the role of a teacher. My career direction changed when I saw the struggles with mental health and wellbeing cropping up regularly.</p>
                     <p>As well as working in private practice, I am currently volunteering my services as a counsellor/psychotherapist in the mental health/wellbeing charity sector.</p>
                 </div>
