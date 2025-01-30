@@ -4621,9 +4621,23 @@ textarea {
         padding: 0 10px;
         color: #555;
     }
-
 	#faq {
-		background-color: #f5e6d3; /* Change this to any color you prefer */
-		padding: 50px 0;
+		background-color: #f5e6d3 !important;
 	}
 	
+	#faq.wrapper.style2 {
+		background-color: #f5e6d3 !important;
+	}
+	
+	.wrapper.style2 {
+		background-color: #f5e6d3 !important;
+	}
+	
+	/* This ensures the style applies across all screen sizes */
+	@media screen and (min-width: 0px) {
+		#faq, 
+		#faq.wrapper.style2,
+		.wrapper.style2 {
+			background-color: #f5e6d3 !important;
+		}
+	}
