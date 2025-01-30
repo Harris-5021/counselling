@@ -3679,6 +3679,7 @@ input, select, textarea {
 				margin: 0 0 0 -0.75em;
 				position: absolute;
 				width: 1.5em;
+				top: 20%;
 			}
 
 		#banner:after {
@@ -3704,6 +3705,21 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+			#banner .more:after {
+				background-image: url("images/arrow.svg");
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: contain;
+				bottom: 4em;
+				content: '';
+				display: block;
+				height: 1.5em;
+				left: 50%;
+				margin: 0 0 0 -0.75em;
+				position: absolute;
+				width: 1.5em;
+				top: 20%;
+			}
 			#banner {
 				padding: 7em 3em 5em 3em ;
 				height: auto;
@@ -4217,6 +4233,8 @@ input, select, textarea {
 
 /* Responsive Adjustments */
 @media screen and (max-width: 736px) {
+
+	
     .grid-issues {
         grid-template-columns: 1fr;
     }
@@ -4681,7 +4699,27 @@ textarea {
 	font-style: italic;
   }
  
-  
+  @media screen and (max-width: 2560px) {
+	#banner .more {
+		position: absolute;
+		bottom: 2em;
+		left: 50%;
+		transform: translateX(-50%);
+		height: auto;
+		margin-left: 0;
+		width: auto;
+		top: 70%;
+		padding: 1em;
+		border-radius: 5px;
+		opacity: 1 !important;
+	}
+
+	#banner .more:after {
+		bottom: -1.5em;
+		height: 2em;
+	}
+	
+  }
   /* Banner improvements for mobile */
   @media screen and (max-width: 736px) {
 	  #banner {
@@ -4716,24 +4754,7 @@ textarea {
 	  }
   
 	  /* Make learn more arrow visible */
-	  #banner .more {
-		  position: absolute;
-		  bottom: 2em;
-		  left: 50%;
-		  transform: translateX(-50%);
-		  height: auto;
-		  margin-left: 0;
-		  width: auto;
-		  background-color: rgba(58, 58, 58, 0.5);
-		  padding: 1em;
-		  border-radius: 5px;
-		  opacity: 1 !important;
-	  }
-  
-	  #banner .more:after {
-		  bottom: -1.5em;
-		  height: 2em;
-	  }
+	  
   
 	  /* Improve section spacing */
 	  .wrapper {
@@ -4831,4 +4852,28 @@ section#contact {
 /* Ensure the inner container matches the rest of the page */
 section#contact .inner {
     background-color: transparent; /* Match the page background */
+}
+/* Ensure banner has a relative position */
+#banner {
+    position: relative;
+    overflow: hidden; /* Prevent weird layout shifts */
+}
+
+/* Fix button positioning */
+#banner .more {
+    position: absolute;
+    bottom: 20px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+    z-index: 10;
+    will-change: transform, opacity;
+    transition: transform 0.75s ease, opacity 0.75s ease;
+}
+
+/* Safari-specific fixes */
+@supports (-webkit-touch-callout: none) {
+    #banner .more {
+        will-change: auto; /* Safari sometimes over-optimizes animations */
+    }
 }

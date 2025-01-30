@@ -11,7 +11,8 @@
             YOUR JOURNEY STARTS HERE</p>
         </div>
     </div>
-    <a href="#one" class="more scrolly" style="color: #ffffff;">Learn More</a>
+    <a href="#one" class="more scrolly" style="color: #ffffff;">Click to 
+		                                                        Learn More</a>
 </section>
 
 <!-- One -->

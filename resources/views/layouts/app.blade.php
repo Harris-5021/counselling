@@ -81,33 +81,7 @@
                     color: #ffffff !important;
                 }
             
-                /* Fix learn more arrow */
-                #banner .more {
-                    display: block !important;
-                    opacity: 1 !important;
-                    position: absolute !important;
-                    bottom: 2em !important;
-                    left: 50% !important;
-                    transform: translateX(-50%) !important;
-                    width: auto !important;
-                    height: auto !important;
-                    text-align: center !important;
-                }
-            
-                #banner .more:after {
-                    content: '' !important;
-                    display: block !important;
-                    height: 3em !important;
-                    width: 3em !important;
-                    position: absolute !important;
-                    left: 50% !important;
-                    bottom: -4em !important;
-                    transform: translateX(-50%) !important;
-                    background-image: url("images/arrow.svg") !important;
-                    background-size: contain !important;
-                    background-repeat: no-repeat !important;
-                    opacity: 1 !important;
-                }
+              
             
                 /* Fix columns layout */
                 .info-grid {
@@ -182,6 +156,46 @@
                 
                 #header img {
                     height: 2.2em !important;
+                }
+            }
+            @media screen and (min-width: 737px) {
+                #header {
+                    height: 3em !important;
+                    line-height: 3em !important;
+                    position: fixed !important;
+                    width: 100% !important;
+                    top: 0 !important;
+                    left: 0 !important;
+                    z-index: 10000 !important;
+                    padding: 0 1em !important;
+                    background: #2e3842  !important;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+                }
+                #header a {
+                    display: flex !important;
+                    align-items: center !important;
+                    height: 100% !important;
+                    width: auto !important;
+                    padding: 0 !important;
+                    border: none !important;
+                    text-decoration: none !important;
+                }
+                #header img {
+                    height: 2.5em !important;
+                    width: auto !important;
+                    margin-right: 0.5em !important;
+                    object-fit: contain !important;
+                }
+                #header h1 {
+                    font-size: 1em !important;
+                    margin: 0 !important;
+                    padding: 0 !important;
+                    position: relative !important;
+                    left: 0 !important;
+                    color: #ffffff !important;
+                    white-space: nowrap !important;
+                    overflow: hidden !important;
+                    text-overflow: ellipsis !important;
                 }
             }
             </style>
