@@ -129,7 +129,7 @@
             
                 .wrapper.style1,
                 .wrapper.style2,
-                .wrapper.style3, {
+                .wrapper.style3 {
                     background-color: #f5e6d3 !important;
                 }
             
@@ -137,8 +137,7 @@
                 .wrapper,
                 .wrapper.style1,
                 .wrapper.style2,
-                .wrapper.style3,
-                .wrapper.style4 {
+                .wrapper.style3 {
                     color: #4a4a4a !important;
                 }
             

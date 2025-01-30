@@ -4520,7 +4520,7 @@ input, select, textarea {
 }
 /* Contact Section Styling */
 #contact {
-    background-color: #f7f7f7; /* Soft background color */
+    background-color: #2e3842 !important; /* Soft background color */
     padding: 40px 20px;
     border-radius: 8px;
     margin-top: 0px; /* Optional: Adds some spacing from the section above */
