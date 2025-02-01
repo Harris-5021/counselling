@@ -28,7 +28,7 @@
             </header>
         </div>
         <div class="content">
-            <p>My approach is Intgrative which is tailor made to suit individual clients needs. I offer 1 to 1 therapy for adults and young people, couples counselling, and EMDR therapy. From my private practice in South Yorkshire, as well as online and telephone, I support clients through a range of challenges, including anxiety, depression, trauma, and relationship difficulties</p>
+            <p>My approach is Integrative which is tailor made to suit individual clients needs. I offer 1 to 1 therapy for adults and young people, couples counselling, and EMDR therapy. From my private practice in South Yorkshire, as well as online and telephone, I support clients through a range of challenges, including anxiety, depression, trauma, and relationship difficulties</p>
             
             <p>With over 13 years of experience and a Master's degree in Counselling and Trauma from the University of Nottingham, I've held roles as Clinical Lead for abuse and trauma services and currently work as a Specialist Mental Health and Learning Support Mentor at Universities. My extensive experience across hospice care, community services, and the voluntary sector has shaped my approach to providing compassionate, professional therapy tailored to each individual's needs.</p>
         </div>
