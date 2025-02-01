@@ -8,10 +8,8 @@
         <noscript><link rel="stylesheet" href="{{ asset('assets/css/noscript.css') }}" /></noscript>
         <style>
             
-            @media screen and (max-width: 736px) {
-                /* Add these styles inside your existing media query */
-
-/* Dark background for content sections */
+@media screen and (max-width: 736px) {
+            /* Dark background for content sections */
 .spotlight .content {
     background-color: rgba(46, 56, 66, 0.95) !important;
     padding: 2em !important;
@@ -22,6 +20,10 @@
 #banner {
     background-color: rgba(46, 56, 66, 0.95) !important;
 }
+            @media screen and (max-width: 736px) {
+                /* Add these styles inside your existing media query */
+
+
 
 /* Adjust main title position */
 #banner .inner {
