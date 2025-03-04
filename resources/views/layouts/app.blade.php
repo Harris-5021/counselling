@@ -254,7 +254,6 @@
   "description": "Expert counselling and psychotherapy in South Yorkshire offering individual therapy, couples counselling, and EMDR therapy.",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "118 Wickersley Road",
     "addressLocality": "Rotherham",
     "postalCode": "S60 3PR",
     "addressCountry": "GB"

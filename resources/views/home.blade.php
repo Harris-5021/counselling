@@ -154,7 +154,7 @@
                 </p>
                 <p>
                     <strong>Address:</strong><br />
-                    118 Wickersley Road<br />
+                    <br />
                     Rotherham S60 3PR
                 </p>
             </div>

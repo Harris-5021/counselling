@@ -11,7 +11,6 @@
                 <div class="mt-6">
                     <h2 class="text-lg font-medium text-gray-900">Location</h2>
                     <div class="mt-3">
-                        <p>118 Wickersley Road</p>
                         <p>Rotherham S60 3PR</p>
                     </div>
                 </div>
